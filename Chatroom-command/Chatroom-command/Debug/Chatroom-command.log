@@ -1,0 +1,7 @@
+﻿  Chatroom-command.cpp
+C:\Users\admin\source\repos\Chatroom-command\Chatroom-command\Chatroom-command.cpp(80,17): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\source\repos\Chatroom-command\Chatroom-command\Chatroom-command.cpp(89,21): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\source\repos\Chatroom-command\Chatroom-command\Chatroom-command.cpp(113,17): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\source\repos\Chatroom-command\Chatroom-command\Chatroom-command.cpp(123,17): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\source\repos\Chatroom-command\Chatroom-command\Chatroom-command.cpp(124,17): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Chatroom-command.vcxproj -> C:\Users\admin\source\repos\Chatroom-command\Debug\Chatroom-command.exe

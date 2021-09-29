@@ -1,0 +1,7 @@
+﻿  Demo_Cautrucdulieu.cpp
+C:\Users\admin\source\repos\Demo_Cautrucdulieu\Demo_Cautrucdulieu\Demo_Cautrucdulieu.cpp(213,76): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\source\repos\Demo_Cautrucdulieu\Demo_Cautrucdulieu\Demo_Cautrucdulieu.cpp(227,76): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\source\repos\Demo_Cautrucdulieu\Demo_Cautrucdulieu\Demo_Cautrucdulieu.cpp(237,76): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\source\repos\Demo_Cautrucdulieu\Demo_Cautrucdulieu\Demo_Cautrucdulieu.cpp(252,76): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\source\repos\Demo_Cautrucdulieu\Demo_Cautrucdulieu\Demo_Cautrucdulieu.cpp(199,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Demo_Cautrucdulieu.vcxproj -> C:\Users\admin\source\repos\Demo_Cautrucdulieu\Debug\Demo_Cautrucdulieu.exe

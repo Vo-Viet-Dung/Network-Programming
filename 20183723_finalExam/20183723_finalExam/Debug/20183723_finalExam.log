@@ -1,0 +1,6 @@
+﻿  20183723_finalExam.cpp
+C:\Users\admin\source\repos\20183723_finalExam\20183723_finalExam\20183723_finalExam.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\admin\source\repos\20183723_finalExam\20183723_finalExam\20183723_finalExam.cpp(35,21): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\admin\source\repos\20183723_finalExam\20183723_finalExam\20183723_finalExam.cpp(75,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\source\repos\20183723_finalExam\20183723_finalExam\20183723_finalExam.cpp(82,23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  20183723_finalExam.vcxproj -> C:\Users\admin\source\repos\20183723_finalExam\Debug\20183723_finalExam.exe

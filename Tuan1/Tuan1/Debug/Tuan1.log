@@ -1,0 +1,4 @@
+﻿  Tuan1.cpp
+C:\Users\admin\source\repos\Tuan1\Tuan1\Tuan1.cpp(27,33): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\admin\source\repos\Tuan1\Tuan1\Tuan1.cpp(38,19): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  Tuan1.vcxproj -> C:\Users\admin\source\repos\Tuan1\Debug\Tuan1.exe

@@ -1,0 +1,8 @@
+﻿  TCP-Chatroom.cpp
+C:\Users\admin\source\repos\Ôn tập LTM\TCP-Chatroom\TCP-Chatroom\TCP-Chatroom.cpp(65,13): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\source\repos\Ôn tập LTM\TCP-Chatroom\TCP-Chatroom\TCP-Chatroom.cpp(70,23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\source\repos\Ôn tập LTM\TCP-Chatroom\TCP-Chatroom\TCP-Chatroom.cpp(80,17): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\source\repos\Ôn tập LTM\TCP-Chatroom\TCP-Chatroom\TCP-Chatroom.cpp(142,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\source\repos\Ôn tập LTM\TCP-Chatroom\TCP-Chatroom\TCP-Chatroom.cpp(147,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\source\repos\Ôn tập LTM\TCP-Chatroom\TCP-Chatroom\TCP-Chatroom.cpp(157,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TCP-Chatroom.vcxproj -> C:\Users\admin\source\repos\Ôn tập LTM\TCP-Chatroom\Debug\TCP-Chatroom.exe

@@ -1,0 +1,8 @@
+﻿  ExamChatroom.cpp
+C:\Users\admin\source\repos\Ôn tập LTM\ExamChatroom\ExamChatroom\ExamChatroom.cpp(74,17): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\source\repos\Ôn tập LTM\ExamChatroom\ExamChatroom\ExamChatroom.cpp(82,21): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\source\repos\Ôn tập LTM\ExamChatroom\ExamChatroom\ExamChatroom.cpp(112,17): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\source\repos\Ôn tập LTM\ExamChatroom\ExamChatroom\ExamChatroom.cpp(118,17): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\source\repos\Ôn tập LTM\ExamChatroom\ExamChatroom\ExamChatroom.cpp(135,21): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\source\repos\Ôn tập LTM\ExamChatroom\ExamChatroom\ExamChatroom.cpp(136,21): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ExamChatroom.vcxproj -> C:\Users\admin\source\repos\Ôn tập LTM\ExamChatroom\Debug\ExamChatroom.exe

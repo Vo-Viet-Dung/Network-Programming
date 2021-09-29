@@ -1,0 +1,5 @@
+﻿  ChatRoom Multi Thread.cpp
+C:\Users\admin\source\repos\ChatRoom Multi Thread\ChatRoom Multi Thread\ChatRoom Multi Thread.cpp(14,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\admin\source\repos\ChatRoom Multi Thread\ChatRoom Multi Thread\ChatRoom Multi Thread.cpp(74,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\source\repos\ChatRoom Multi Thread\ChatRoom Multi Thread\ChatRoom Multi Thread.cpp(100,8): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ChatRoom Multi Thread.vcxproj -> C:\Users\admin\source\repos\ChatRoom Multi Thread\Debug\ChatRoom Multi Thread.exe

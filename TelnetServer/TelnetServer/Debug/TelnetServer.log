@@ -1,0 +1,8 @@
+﻿  TelnetServer.cpp
+C:\Users\admin\source\repos\TelnetServer\TelnetServer\TelnetServer.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\admin\source\repos\TelnetServer\TelnetServer\TelnetServer.cpp(70,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\source\repos\TelnetServer\TelnetServer\TelnetServer.cpp(75,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\source\repos\TelnetServer\TelnetServer\TelnetServer.cpp(85,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\source\repos\TelnetServer\TelnetServer\TelnetServer.cpp(111,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\source\repos\TelnetServer\TelnetServer\TelnetServer.cpp(118,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TelnetServer.vcxproj -> C:\Users\admin\source\repos\TelnetServer\Debug\TelnetServer.exe
